@@ -16,7 +16,8 @@ class Program{
             //Q2_PrimeNumber.PrimeNumber();
             //Q3_Factorial_Number.factorial();
             //Q4_Reverse_Number.reverse();
-            Q5_Reverse_String.reverse();
+            //Q5_Reverse_String.reverse();
+             Q6_Vowels_Consonents.checkVowels();
 
         }
 }

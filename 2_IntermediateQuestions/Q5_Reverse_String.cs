@@ -6,7 +6,7 @@ namespace _2_IntermediateQuestions
         public static void reverse()
         {
             Console.WriteLine("Enter a String which you want a Reverse");
-            string name = Console.ReadLine();
+            string? name = Console.ReadLine();
             string rev = "";
            for(int i = name.Length-1 ; i >= 0 ; i--)
              {
